@@ -25,31 +25,11 @@ export default function Home() {
                 <div className="grid">
 
                     <a href="/posts/first-post" className="card">
-                        <h3>My Personal Information &rarr;</h3>
-                        <p>Learn about my personal information</p>
+                        <h3>About Me &rarr;</h3>
+                        <p>Learn about Me</p>
                     </a>
 
-                    <a href="/posts/second-post" className="card">
-                        <h3>Hobby &rarr;</h3>
-                        <p>Learn about my hobbies</p>
-                    </a>
-
-                    <a
-                        href="/posts/third-post" className="card">
-
-                        <h3>TMI &rarr;</h3>
-                        <p>Learn about some TMIs.</p>
-                    </a>
-
-                    <a
-                        href="https://www.melon.com/chart/"
-                        className="card"
-                    >
-                        <h3>Playlist &rarr;</h3>
-                        <p>
-                            Learn about my playlist.
-                        </p>
-                    </a>
+                   
                 </div>
             </main>
 
